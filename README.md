@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="left">Hello 👋</h1>
 
-<!--
-**brandonmdz/brandonmdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Brandon and I'm a IT Analyst from Argentina</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<p align="left">Managing Kubernetes and Docker.<br>AWS, Terraform, and others cloud stuff.<br>Some Python and Go coding.</p>
+
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
+<p align="left">Find my socials and resume in my website: https://bdzalazar.com.ar/</p>
+
+###
