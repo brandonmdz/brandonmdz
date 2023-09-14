@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brandon and I'm a IT Analyst from Argentina</p>
+<p align="left">My name is Brandon and I'm a DevOps Engineer from Argentina</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Managing Kubernetes and Docker.<br>AWS, Terraform, and others cloud stuff.<br>Some Python and Go coding.</p>
+<p align="left">Managing Docker.<br>AWS, Terraform, and others cloud stuff.<br>Some Python and Go coding.</p>
 
 ###
 
