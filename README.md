@@ -1,23 +1,17 @@
-<h1 align="left">Hello 👋</h1>
+# Hi there! 👋
 
-###
+- My name is Brandon and I'm currently working as a DevOps Engineer.
 
-<p align="left">My name is Brandon and I'm a DevOps Engineer from Argentina</p>
+- I've really enjoyed troubleshooting for as long as I can remember.
 
-###
+- I'm not an expert in everything, but I've never shied away from learning new things…it's actually what I enjoy the most!.
 
-<h2 align="left">Skills</h2>
+# Skills
 
-###
+- Managing Docker.
+- Good knowledge of new technologies in general.
+- Working with AWS and their important services.
 
-<p align="left">Managing Docker.<br>AWS, Terraform, and others cloud stuff.<br>Some Python and Go coding.</p>
+# Contact
 
-###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<p align="left">Find my socials and resume in my website: https://bdzalazar.com.ar/</p>
-
-###
+Find all my socials in my [website](https://brandonzalazar.com/ "website")
