@@ -6,11 +6,13 @@
 
 - I'm not an expert in everything, but I've never shied away from learning new things…it's actually what I enjoy the most!.
 
+- Generally, I like to automate as much as possible… except for mate 🧉 some things deserve manual dedication.
+
 # Skills
 
 - Managing Docker.
-- Good knowledge of new technologies in general.
-- Working with AWS and their important services.
+- Good knowledge of new technologies in general. (Terraform, Git, CI/CD pipelines, Grafana, etc).
+- Working with AWS and their important services. (EC2, RDS, EBS, S3, R53, etc).
 
 # Contact
 
